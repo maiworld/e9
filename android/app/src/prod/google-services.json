@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73022158549",
+    "project_id": "e9-friends",
+    "storage_bucket": "e9-friends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73022158549:android:f68956211edacde5de945c",
+        "android_client_info": {
+          "package_name": "com.e9friends.inain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_funDR9JhkKYCuTq86y7m-oTPdozw0-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
